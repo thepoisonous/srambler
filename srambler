@@ -1,0 +1,12 @@
+<!DOCTYPE html><meta charset="utf-8">
+<html lang="en">
+    <head><a href="https://github.com/thepoisonous/srambler/blob/main/srambler.png"></a>
+        <title>Search</title>
+    </head>
+    <body>
+        <form action="https://google.com/search">
+            <input type="text" name="q">
+            <input type="submit" value="Google Search">
+        </form>
+    </body>
+</html>
