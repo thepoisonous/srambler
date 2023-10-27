@@ -7,7 +7,7 @@
 <img src="srambler.png" alt="logo">
 <title>Search</title>
     </head>
-    <body>
+    <body> 
         <form action="https://google.com/search">
             <input type="text" name="q">
             <input type="submit" value=" Srambler Search">
