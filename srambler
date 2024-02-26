@@ -3,7 +3,7 @@
  
 <!--hello-->
 <html lang="en">
-    <head>
+    <head> <style>
 <img src="srambler.png" alt="logo">
 <title>Search</title>
     </head>
